@@ -44,7 +44,8 @@ https://leetcode.com/problems/random-pick-with-weight/
 https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 https://leetcode.com/problems/single-element-in-a-sorted-array/
 
-Sliding Window
+# Sliding Window
+
 day 1
 Longest Substring Without Repeating Characters
 Maximum Length of Repeated Subarray
@@ -79,7 +80,8 @@ day 7
 Subarray Product Less Than K
 Longest Nice Substring
 
-Priority Queue
+# Priority Queue
+
 
 Day 1
 Meeting Rooms II
@@ -114,7 +116,8 @@ Kth Largest Element in a Stream
 Single-Threaded CPU
 Sort Characters By Frequency
 
-Backtracking
+# Backtracking
+
 
 Day 1
 Generate Parentheses 69.0% Medium
@@ -151,7 +154,8 @@ Subsets II 52.2% Medium
 Shopping Offers 54.3% Medium
 Palindrome Partitioning 58.1% Medium
 
-Greedy
+# Greedy
+
 
 Day 1
 Meeting Rooms II 49.0% Medium
@@ -188,7 +192,7 @@ Two City Scheduling 59.7% Medium
 Can Place Flowers 32.0% Easy
 Cinema Seat Allocation 38.5% Medium
 
-Prefix Sum
+# Prefix Sum
 Day 1
 Subarray Sum Equals K 43.8% Medium
 Random Pick with Weight 45.9% Medium
@@ -224,7 +228,8 @@ Maximum Side Length of a Square with Sum Less than or Equal to Threshold 52.3% M
 Sum of Absolute Differences in a Sorted Array 65.0% Medium
 Number of Sub-arrays With Odd Sum 43.4% Medium
 
-LinkedLists
+# LinkedLists
+
 Day 1
 LRU Cache 39.0% Medium
 Add Two Numbers 37.6% Medium
@@ -260,7 +265,8 @@ Convert Binary Number in a Linked List to Integer 82.7% Easy
 Linked List Cycle 44.8% Easy
 Swap Nodes in Pairs 56.7% Medium
 
-HashMap
+# HashMap
+
 Day 1
 Two Sum 48.1% Easy
 LRU Cache 39.0% Medium
@@ -296,7 +302,8 @@ Lowest Common Ancestor of a Binary Tree III 77.5% Medium
 Design Hit Counter 66.9% Medium
 Copy List with Random Pointer 45.7% Medium
 
-Trees
+# Trees
+
 Day 1
 Lowest Common Ancestor of a Binary Tree 53.8% Medium
 Range Sum of BST 84.7% Easy
@@ -332,7 +339,8 @@ Path Sum III 49.9% Medium
 Boundary of Binary Tree 42.4% Medium
 Symmetric Tree 50.8% Easy
 
-Dynamic Programming
+# Dynamic Programming
+
 Day 1
 
     Minimum Path Sum
@@ -369,7 +377,8 @@ Day 7
 6. Target Sum
 7. Out of Boundary Paths
 
-TODO
+# TODO
+
 DFS
 Day 1
 200. Number of Islands 54.0% Medium
